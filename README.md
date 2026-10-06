@@ -88,16 +88,37 @@ Vision- and VLM-focused concept-learning papers, 2023–2026. Both lineages abov
 
 ### 2026
 
+Entries are grouped by venue, with workshops explicitly labeled and arXiv preprints listed last. Conference papers are listed by conference year, even when their preprints appeared earlier.
+
 | Paper                                                        | Venue      | Tags                      |
 | ------------------------------------------------------------ | ---------- | ------------------------- |
-| [Interpretable and Steerable Concept Bottleneck Sparse Autoencoders](https://arxiv.org/abs/2512.10805) — Narayanaswamy et al. | CVPR 2026  | `SAE` `CBM` `steerable`   |
+| [Concepts from Representations: Post-hoc Concept Bottleneck Models via Sparse Decomposition of Visual Representations (PCBM-ReD)](https://ojs.aaai.org/index.php/AAAI/article/view/42424) — Gong et al. | AAAI 2026 | `SAE` `CBM` `post-hoc` `sparse-coding` |
 | [Learning Concept Bottleneck Models from Mechanistic Explanations (M-CBM)](https://arxiv.org/abs/2603.07343) — De Santis et al. | ICLR 2026  | `SAE` `CBM` `mechanistic` |
+| [Into the Rabbit Hull: From Task-Relevant Concepts in DINO to Minkowski Geometry](https://arxiv.org/abs/2510.08638) — Fel et al. | ICLR 2026 | `SAE` `DINO` `concept-discovery` `geometric` |
+| [Sparse CLIP: Co-Optimizing Interpretability and Performance in Contrastive Learning](https://arxiv.org/abs/2601.20075) — Qin et al. | ICLR 2026 | `CLIP` `interpretable-by-design` `cross-modal` `steering` |
+| [Automatic Interpretation of Visual Concepts](https://openreview.net/pdf?id=AOXh7qS5mQ) — Meissen et al. | ICLR 2026 UCRL Workshop | `SAE` `concept-labeling` `counterfactual` `post-hoc` |
+| [Interpretable and Steerable Concept Bottleneck Sparse Autoencoders](https://arxiv.org/abs/2512.10805) — Narayanaswamy et al. | CVPR 2026  | `SAE` `CBM` `steerable`   |
+| [From Weights to Concepts: Data-Free Interpretability of CLIP via Singular Vector Decomposition (SITH)](https://openaccess.thecvf.com/content/CVPR2026/html/Gentile_From_Weights_to_Concepts_Data-Free_Interpretability_of_CLIP_via_Singular_CVPR_2026_paper.html) — Gentile et al. | CVPR 2026 | `CLIP` `post-hoc` `sparse-coding` `steering` |
+| [Hierarchical Concept Embedding & Pursuit for Interpretable Image Classification (HCEP)](https://openaccess.thecvf.com/content/CVPR2026/html/Nguyen_Hierarchical_Concept_Embedding__Pursuit_for_Interpretable_Image_Classification_CVPR_2026_paper.html) — Nguyen et al. | CVPR 2026 | `sparse-coding` `hierarchical` `VLM` `interpretable-by-design` |
+| [Intrinsic Concept Extraction Based on Compositional Interpretability (HyperExpress)](https://openaccess.thecvf.com/content/CVPR2026/html/Shi_Intrinsic_Concept_Extraction_Based_on_Compositional_Interpretability_CVPR_2026_paper.html) — Shi et al. | CVPR 2026 | `concept-discovery` `diffusion` `hierarchical` `compositional` |
+| [Improving Sparse Autoencoder with Dynamic Attention](https://openaccess.thecvf.com/content/CVPR2026/html/Wang_Improving_Sparse_Autoencoder_with_Dynamic_Attention_CVPR_2026_paper.html) — Wang et al. | CVPR 2026 | `SAE` `architecture` `concept-discovery` |
+| [Interpretability Transfer from Language to Vision via Sparse Autoencoders (VISTA)](https://proceedings.mlr.press/v306/kravets26a.html) — Kravets et al. | ICML 2026 | `SAE` `VLM` `cross-modal` `steering` |
+| [Inside the Visual Mind: Neuroscience-Motivated Concept Circuits for Interpreting and Steering Vision Transformers (ViSAE)](https://proceedings.mlr.press/v306/li26s.html) — Li et al. | ICML 2026 | `SAE` `mechanistic` `concept-discovery` `steering` |
+| [ConEx: Human-Interpretable Saliency Maps via Concept-Aware Attribution](https://proceedings.mlr.press/v306/elisha26a.html) — Elisha et al. | ICML 2026 | `CAV` `concept-discovery` `spatial` `post-hoc` |
+| [Evaluating the Interpretability of Sparse Autoencoders with Concept Annotations](https://arxiv.org/abs/2606.24716) — Klotz et al. | ECCV 2026 | `SAE` `benchmark` `CLIP` `DINO` |
+| [Sparse Autoencoders for Interpretable Medical Image Representation Learning](https://papers.miccai.org/miccai-2026/0976-Paper4497.html) — Wesp et al. | MICCAI 2026 | `SAE` `DINO` `medical-imaging` `concept-labeling` |
+| [MedConcept: Unsupervised Concept Discovery for Interpretability in Medical VLMs](https://papers.miccai.org/miccai-2026/0630-Paper5647.html) — Haque et al. | MICCAI 2026 | `SAE` `VLM` `concept-discovery` `medical-imaging` |
+| [Extraction and Analysis of Multimodal Concepts in Vision Language Models through Sparse Autoencoders](https://arxiv.org/abs/2606.21197) — Lanza et al. | ICANN 2026 | `SAE` `VLM` `cross-modal` `concept-labeling` |
 | [Hierarchical Concept-based Interpretable Models](https://arxiv.org/abs/2602.23947) | arXiv 2026 | `CBM` `hierarchical`      |
 | [Explaining CLIP Zero-shot Predictions Through Concepts](https://arxiv.org/abs/2603.28211) | arXiv 2026 | `CBM` `CLIP` `zero-shot`  |
 | [Matryoshka Concept Bottleneck Models](https://arxiv.org/abs/2605.20612) | arXiv 2026 | `CBM` `hierarchical`      |
+| [LUCID-SAE: Learning Unified Vision-Language Sparse Codes for Interpretable Concept Discovery](https://arxiv.org/abs/2602.07311) — Gu et al. | arXiv 2026 | `SAE` `VLM` `cross-modal` `grounding` |
+| [Conceptualizing Embeddings: Sparse Disentanglement for Vision-Language Models (CEDAR)](https://arxiv.org/abs/2605.22679) — Kubaty et al. | arXiv 2026 | `VLM` `post-hoc` `sparse-coding` `geometric` |
+| [Steering Vision-Language Models with Joint Sparse Autoencoders (JSAE)](https://arxiv.org/abs/2606.25657) — Shu et al. | arXiv 2026 | `SAE` `VLM` `cross-modal` `steering` |
+| [When Structured Sparse Autoencoders Learn Consistent Concepts Across Modalities (S²AE)](https://arxiv.org/abs/2607.08605) — Liao et al. | arXiv 2026 | `SAE` `VLM` `cross-modal` `spatial` |
+| [NeuronEye: Query-Guided Visual Concept Activation for Vision-Language Reasoning](https://arxiv.org/abs/2609.38098) — Yan et al. | arXiv 2026 | `SAE` `VLM` `concept-discovery` `steering` |
 
-> Note: 2026 is still in progress as of this writing (July 2026) — expect CVPR/ICML/ICCV 2026 additions throughout the year.
-
+> Note: 2026 is still in progress. Metadata for the additions above was checked against public papers and publication records on October 6, 2026.
 ## Surveys & Benchmarks
 
 Good starting points for orienting yourself in the field:
@@ -105,21 +126,29 @@ Good starting points for orienting yourself in the field:
 - **[Concept-based Explainable AI: A Survey](https://arxiv.org/abs/2312.12936)** — Poeta et al., 2023. Nine-category taxonomy of concept-based XAI methods.
 - **[A Comprehensive Survey on the Risks and Limitations of Concept-based Models](https://arxiv.org/abs/2506.04237)** — Sinha & Zhang, 2025. Concept leakage, entanglement, adversarial vulnerabilities.
 - **[SAEBench](https://arxiv.org/abs/2503.09532)** — Karvonen et al., ICML 2025. Eight-metric benchmark for SAE quality (LLM-focused, but the eval methodology transfers to vision SAEs).
+- **[Evaluating the Interpretability of Sparse Autoencoders with Concept Annotations](https://arxiv.org/abs/2606.24716)** — Klotz et al., ECCV 2026. Vision-SAE evaluation using synCUB/synCOCO, Fully-Binary Matching Pursuit (FBMP), and TAPAScore to test concept alignment under targeted attribute perturbations.
+- **[Automatic Interpretation of Visual Concepts](https://openreview.net/pdf?id=AOXh7qS5mQ)** — Meissen et al., ICLR 2026 UCRL Workshop. Evaluation of automatic concept descriptions using Semantic Label Quality (SLQ) metrics, sample-selection strategies, and synthetic counterfactuals.
 
 ## Tag Index
 
 - `CBM` — Concept Bottleneck Model
 - `SAE` — Sparse Autoencoder
+- `sparse-coding` — Sparse decomposition or pursuit over concept dictionaries, including methods without SAEs
+- `architecture` — Changes to the concept-extraction architecture or sparsity mechanism
 - `CAV` — Concept Activation Vector
 - `VLM` — Vision-Language Model
 - `CLIP` — CLIP-specific
+- `DINO` — Uses or analyzes DINO-family vision representations (e.g., DINOv2 or DINOv3)
 - `LLM` — Rooted in language-model interpretability (Most-Read section)
 - `diffusion` / `generative` — Diffusion or other generative image models
 - `zero-shot` / `label-free` — No labeled concept data required
 - `post-hoc` — Interpretability added after training (vs. built-in)
 - `interpretable-by-design` — Ante-hoc / inherently interpretable architecture
 - `concept-discovery` — Unsupervised concept extraction
+- `concept-labeling` — Assigning or evaluating semantic descriptions of extracted concepts
 - `hierarchical` — Coarse-to-fine or multi-level concept structure
+- `compositional` — Extracted concepts can be recombined to represent or generate complex content
+- `spatial` / `grounding` — Localizing concepts to image regions or patches
 - `counterfactual` — Concept-based counterfactual reasoning/intervention
 - `uncertainty` / `Bayesian` — Probabilistic concept modeling
 - `steering` / `steerable` — Using concepts to control model output
